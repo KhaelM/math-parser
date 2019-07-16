@@ -1,0 +1,19 @@
+#pragma once
+
+enum IdNoeud
+{
+    PARENTHESE_OUVRANTE,
+    PARENTHESE_FERMANTE,
+    POSITIF,
+    NEGATIF,
+    ADDITION,
+    SOUSTRACTION,
+    MULTIPLICATION,
+    DIVISION,
+    EXPOSANT,
+    FACTORIEL,
+    SIN,
+    COS,
+    TAN,
+    NOMBRE
+};
